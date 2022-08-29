@@ -1,6 +1,6 @@
 %MITE paper 自适应
 
-clearvars -EXCEPT detector_drv1 x1 x2 y1 y2 udpA detector_drv2 imagePoints1 imagePoints2
+
 close all
 clc
 clf
