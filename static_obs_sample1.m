@@ -2,6 +2,7 @@
 
 
 close all
+clear
 clc
 clf
 
