@@ -8,3 +8,7 @@ https://github.com/mattools/matGeom
 Morover, to perform collision detection, OpenGJK should be deployed.
 
 https://www.mathworks.com/matlabcentral/fileexchange/70594-opengjk-compute-minimum-distance-between-3d-polyhedra
+
+statistics and machine learning toolbox also required
+
+
